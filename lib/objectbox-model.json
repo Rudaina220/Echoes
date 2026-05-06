@@ -1,0 +1,82 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:2684228229510979591",
+      "lastPropertyId": "11:8898556495082924830",
+      "name": "MemoryEntry",
+      "properties": [
+        {
+          "id": "1:2986480562512215029",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:3965632789956779674",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "3:8967103303874228401",
+          "name": "bodyText",
+          "type": 9
+        },
+        {
+          "id": "4:1684960493917236710",
+          "name": "createdAt",
+          "type": 10
+        },
+        {
+          "id": "5:6767626045841875032",
+          "name": "latitude",
+          "type": 8
+        },
+        {
+          "id": "6:1964609113847499413",
+          "name": "longitude",
+          "type": 8
+        },
+        {
+          "id": "7:3798776229861995799",
+          "name": "locationName",
+          "type": 9
+        },
+        {
+          "id": "8:2328375518257317631",
+          "name": "voiceMemoPath",
+          "type": 9
+        },
+        {
+          "id": "9:7982581018522069774",
+          "name": "voiceTranscript",
+          "type": 9
+        },
+        {
+          "id": "10:4397758233435215628",
+          "name": "moodScore",
+          "type": 6
+        },
+        {
+          "id": "11:8898556495082924830",
+          "name": "syncedToCloud",
+          "type": 1
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:2684228229510979591",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
